@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: rgb(133, 128, 132);
+
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem ;
+}
